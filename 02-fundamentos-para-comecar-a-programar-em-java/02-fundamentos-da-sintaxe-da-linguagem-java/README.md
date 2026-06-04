@@ -12,6 +12,9 @@ Esta pasta reúne anotações e exemplos práticos sobre os primeiros conceitos 
 - Comentários de documentação
 - Criação e chamada de métodos
 - Escopo de variáveis
+- Entrada de dados com `Scanner`
+- Declaração explícita de variáveis
+- Inferência de tipo com `var`
 
 ## Objetivo
 
@@ -23,3 +26,4 @@ Entre na pasta `exemplos`:
 
 ```bash
 cd exemplos
+```
